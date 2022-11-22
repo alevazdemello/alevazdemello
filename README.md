@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alevazdemello
-- 👀 I'm interested in technology in general specially client side
+- 👀 I'm interested in technology, specially client side
 - 🌱 I’m currently learning JS, PHP, Phyton
 
 
